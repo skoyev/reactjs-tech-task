@@ -21,7 +21,7 @@ npm start
 Open [http://localhost:3000](http://localhost:3000)<br>
 
 ## Demo (Live Interactive)
-[https://d3cmu8mv5wwijw.cloudfront.net](https://d3cmu8mv5wwijw.cloudfront.net)
+[https://reactjs-tech-task.herokuapp.com/](https://reactjs-tech-task.herokuapp.com/)
 
 ## Technologies
 * ReactJS

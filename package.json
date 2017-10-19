@@ -3,7 +3,7 @@
   "description": "ReactJS Technical Task Solution",
   "version": "0.0.1",
   "private": false,
-  "repository": "https://github.com/ariesmcrae/reactjs-crud-boilerplate.git",
+  "repository": "https://github.com/skoyev/reactjs-tech-task.git",
   "author": "Sergiy Koyev <skoev@hotmail.com>",
   "license": "MIT",
   "keywords": [
